@@ -3,7 +3,6 @@
 ## Description
 Able to crawl radiograph diagnosis quizzes from:
 - KSTR Weekly Chest Cases
-- RSNA Radiology Diagnosis Please
 
 ## Dependency
 - bs4
@@ -12,4 +11,6 @@ Able to crawl radiograph diagnosis quizzes from:
 - undetected_chromedriver
 
 ### Caution
-RSNA bans your IP for 2 hours if you crawl 100 pages in one session
+CHECK "/robots.txt" OF WEBSITES YOU WANT TO CRAWL.
+IF IT SAYS "DISALLOW: [some link that you want to crawl]", DO NOT CRAWL FROM THERE.
+

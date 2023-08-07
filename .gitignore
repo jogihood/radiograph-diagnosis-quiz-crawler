@@ -1,1 +1,3 @@
 crawled_data/*.csv
+scripts/rsna.ipynb
+rsna_case_links.csv
