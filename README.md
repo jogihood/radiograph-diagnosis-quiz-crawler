@@ -11,6 +11,5 @@ Able to crawl radiograph diagnosis quizzes from:
 - undetected_chromedriver
 
 ### Caution
-CHECK "/robots.txt" OF WEBSITES YOU WANT TO CRAWL.
+CHECK "/robots.txt" OF WEBSITES YOU WANT TO CRAWL.   
 IF IT SAYS "DISALLOW: [some link that you want to crawl]", DO NOT CRAWL FROM THERE.
-
